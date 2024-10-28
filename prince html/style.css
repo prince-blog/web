@@ -1,0 +1,56 @@
+#tittle-range {
+    height: 200px;
+
+}
+
+body {
+    font-size: 25px;
+}
+#main-tittle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-decoration:underline;
+}
+#tittle {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#offroad-range {
+    float: right;
+    height: 300px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+#interior {
+    height: 400px;
+    margin:20px;
+    border-radius: 20px;
+    margin-top:0px;
+
+}
+#power-full-range {
+    height: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    margin-top: 0px;
+}
+
+#stable-range {
+    border-radius: 20px;
+}
+
+footer{
+    margin-top: 30px;
+    font-size: 17px;
+    color: #3a3a3a;
+    background-color: whitesmoke;
+    text-align: left;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+#main-parah {
+    text-align: center;
+}
